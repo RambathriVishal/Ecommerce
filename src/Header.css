@@ -1,0 +1,15 @@
+
+.container-fluid li a:hover{
+
+    color: #fa4251;
+    
+    transition: 0.3s ease;
+   
+}
+.container-fluid li a:focus{
+    color: #fa4251;
+    border-bottom:4px solid #fa4251;
+    transition: 0.3s ease;
+   
+}
+
